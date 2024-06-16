@@ -1,0 +1,19 @@
+.para {
+    background-color: pink;
+    font-family: Verdana, DejaVu sans, sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.para.spec {
+    font-size: 24px;
+}
+
+#four {
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
